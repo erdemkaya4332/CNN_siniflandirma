@@ -2,14 +2,14 @@
 
 Bu proje, **BLG-407 Makine Öğrenmesi** dersi kapsamında hazırlanmış bir görüntü sınıflandırma projesidir. Proje, kesici/delici ve taşıyıcı/servis eşyalarının sınıflandırılması için üç farklı yaklaşımı karşılaştırmaktadır.
 
-## 📋 Proje Bilgileri
+##  Proje Bilgileri
 
 - **Öğrenci:** Mustafa Erdem Kaya
 - **Okul Numarası:** 2212721009
 - **Ders:** BLG-407 Makine Öğrenmesi
-- **GitHub Repo:** `https://github.com/kullanici_adi/CNN_siniflandirma`
+- **GitHub Repo:** `https://github.com/erdemkaya4332/CNN_siniflandirma`
 
-## 📁 Proje Yapısı
+##  Proje Yapısı
 
 ```
 ödev1/
@@ -41,7 +41,7 @@ Proje, iki farklı sınıftan oluşan dengeli bir görüntü sınıflandırma ve
   - Eğitim: 160 görüntü
   - Doğrulama: 40 görüntü
 
-## 🤖 Modeller
+##  Modeller
 
 Proje, üç farklı yaklaşımı karşılaştırmak için üç ayrı model içermektedir:
 
@@ -147,7 +147,7 @@ Notebook dosyaları Google Colab üzerinde çalıştırılmak üzere hazırlanm�
 4. Sonuçları görselleştirir
 
 
-## 📈 Model Karşılaştırması
+##  Model Karşılaştırması
 
 | Model | Yaklaşım | Test Accuracy | Test Loss | Epoch |
 |-------|----------|---------------|-----------|-------|
@@ -168,7 +168,7 @@ Notebook dosyaları Google Colab üzerinde çalıştırılmak üzere hazırlanm�
 - Her model için eğitim ve doğrulama grafikleri oluşturulmaktadır
 - Confusion matrix ve classification report ile detaylı analiz yapılabilir
 
-## 🔧 Teknik Detaylar
+## Teknik Detaylar
 
 ### Kullanılan Kütüphaneler
 
@@ -186,11 +186,12 @@ Notebook dosyaları Google Colab üzerinde çalıştırılmak üzere hazırlanm�
 - **Batch Size:** 32
 - **Image Size:** 128x128
 
-## 📄 Lisans
+## Lisans
 
 Bu proje eğitim amaçlı hazırlanmıştır.
 
-## 👤 İletişim
+##  İletişim
 
 - **Öğrenci:** Mustafa Erdem Kaya
 - **Okul Numarası:** 2212721009
+
